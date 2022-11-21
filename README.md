@@ -1,16 +1,14 @@
-# my_project_login
 
-A new Flutter project.
+![Screenshot_20221121_200320](https://user-images.githubusercontent.com/116374093/203175622-5817dbae-3ecc-4890-bb33-ff05be968ad1.png)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+# Projeto
 
-A few resources to get you started if this is your first Flutter project:
+Projeto criado em conjunto com o curso de Flutter da Udemy, através desse app foi possível desenvolver um card com dados sobre mim.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Tecnologias
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Dart
+
+
+
